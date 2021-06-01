@@ -1,5 +1,4 @@
 # Fullstack JavaScript Developer E-Degree
-======
 
 > Course from [Eduonix](https://www.eduonix.com)
 
